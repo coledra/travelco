@@ -1,0 +1,6 @@
+{
+  "name": "Tripit",
+  "description": "Smart India travel itinerary planner with destination discovery, regional food guides, live transit tracker, weather forecasts, offline maps, and emergency support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
